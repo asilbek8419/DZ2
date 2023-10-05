@@ -15,16 +15,6 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
-// Console.Write("Напишите трехзначное число = ");
-// int n = Convert.ToInt32(Console.ReadLine());
-// int n1 = n / 100;
-// int n2 = n % 10;
-
-// if (n1 == 0)
-//     Console.WriteLine("третьей цыфры нет");
-// else
-//     Console.WriteLine(n2);
-
 int Promt (string messege)
 {
     Console.Write("Напишите число = ");
